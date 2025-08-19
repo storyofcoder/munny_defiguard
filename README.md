@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Quick Task (30 mins)
+➡ Build a basic wallet interface using Web3.js within the provided codebase.\
+➡ It should allow sending and receiving ETH.
+
+This task is designed to give us insight into your approach: how you analyze challenges, prioritize tasks, and work efficiently within a time limit. It is not expected to be a perfect solution. Please focus on doing as much as you can within 30 minutes.
+
+
