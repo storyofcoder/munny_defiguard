@@ -43,7 +43,7 @@ function Header() {
                             <a className="nav-link" href="blog">Blog</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="contact">Contact</a>
+                            <a className="nav-link" href="wallet">Wallet</a>
                         </li>
                     </ul>
                     <form className="form-inline my-2 my-lg-0">
